@@ -35,4 +35,3 @@ if ($user) {
 
 }
 
-// Pour filtrer les liens on peut utiliser la fonction filter_var: *** $url = filter_var($message, FILTER_VALIDATE_URL);***
